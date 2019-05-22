@@ -1,0 +1,3 @@
+SET SERVICE_NAME=NodeServiceTemplate
+SET SERVICE_DESC=Node service to windows
+SET SERVICE_WIN=64
