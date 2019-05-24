@@ -1,3 +1,4 @@
+require('regenerator-runtime');
 require('dotenv').config();
 const server = require('./server');
 
